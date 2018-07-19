@@ -4,6 +4,7 @@ title = "David Díaz's blog"
 publishDir = "docs"
 theme = "kiss"
 enableEmoji = true
+disqusShortname = "dgdavid"
 
 [params.assets]
 customCSS = ["css/custom.css"]
