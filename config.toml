@@ -1,0 +1,4 @@
+baseURL = "https://dgdavid.github.io/"
+languageCode = "en"
+title = "David Díaz's blog"
+publishDir = "docs"
