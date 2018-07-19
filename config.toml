@@ -3,3 +3,9 @@ languageCode = "en"
 title = "David Díaz's blog"
 publishDir = "docs"
 theme = "kiss"
+
+[params.social]
+github = "dgdavid"
+linkedin = "diazglezdavid"
+twitter = "diazglezdavid"
+
