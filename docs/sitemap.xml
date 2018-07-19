@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dgdavid.github.io/categories/</loc>
+    <loc>https://dgdavid.github.io/website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dgdavid.github.io/</loc>
+    <loc>https://dgdavid.github.io/website/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dgdavid.github.io/tags/</loc>
+    <loc>https://dgdavid.github.io/website/tags/</loc>
     <priority>0</priority>
   </url>
   
