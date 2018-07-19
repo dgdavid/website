@@ -3,9 +3,13 @@ languageCode = "en"
 title = "David Díaz's blog"
 publishDir = "docs"
 theme = "kiss"
+enableEmoji = true
+
 
 [params.social]
 github = "dgdavid"
 linkedin = "diazglezdavid"
 twitter = "diazglezdavid"
 
+[blackfriday]
+hrefTargetBlank = true
