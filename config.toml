@@ -5,11 +5,13 @@ publishDir = "docs"
 theme = "kiss"
 enableEmoji = true
 
-
 [params.social]
 github = "dgdavid"
 linkedin = "diazglezdavid"
 twitter = "diazglezdavid"
+
+[params.sections_right]
+"/website/hi-there/" = "About me"
 
 [blackfriday]
 hrefTargetBlank = true
