@@ -5,6 +5,9 @@ publishDir = "docs"
 theme = "kiss"
 enableEmoji = true
 
+[params.assets]
+customCSS = ["css/custom.css"]
+
 [params.social]
 github = "dgdavid"
 linkedin = "diazglezdavid"
