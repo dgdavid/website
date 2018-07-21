@@ -1,11 +1,10 @@
 <!doctype html>
 
-<html  lang="en" >
+<html {{ with .Site.LanguageCode }} lang="{{ . }}" {{ end }}>
   <head>
-	<meta name="generator" content="Hugo 0.43" />
-    <title>David Díaz&#39;s blog</title>
-    <link rel="stylesheet" href="/website/css/minireset.css"/>
-    <link rel="stylesheet" href="/website/css/home.css"/>
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/minireset.css" | relURL }}"/>
+    <link rel="stylesheet" href="{{ "css/home.css" | relURL }}"/>
   </head>
   <body>
     <div class="profile">
