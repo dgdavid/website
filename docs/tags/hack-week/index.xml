@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Díaz&#39;s blog</title>
-    <link>https://dgdavid.github.io/website/</link>
-    <description>Recent content on David Díaz&#39;s blog</description>
+    <title>Hack Week on David Díaz&#39;s blog</title>
+    <link>https://dgdavid.github.io/website/tags/hack-week/</link>
+    <description>Recent content in Hack Week on David Díaz&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 14 Jul 2018 07:56:04 +0100</lastBuildDate>
     
-	<atom:link href="https://dgdavid.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dgdavid.github.io/website/tags/hack-week/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,17 +21,6 @@
  the time SUSE engineers experiment, innovate &amp;amp; learn interruption-free for a whole week &amp;ndash; [SUSE Hack Week homepage]
  My first Hack Week! So exciting! 🎉🎉🎉
 I was tempted to start learning a new language or framework, but instead I decided to do something related to YaST in order to get more familiar with it and its ecosystem.</description>
-    </item>
-    
-    <item>
-      <title>Hi there!</title>
-      <link>https://dgdavid.github.io/website/hi-there/</link>
-      <pubDate>Thu, 12 Jul 2018 12:00:24 +0100</pubDate>
-      
-      <guid>https://dgdavid.github.io/website/hi-there/</guid>
-      <description>Jesús David Díaz González here, a software developer from La Aldea de San Nicolás[1][2].
-After working for the Web platform during 10 years, recently I became a YaST Member Team (YTM) 👏👏👏 at SUSE, a great and exciting challenge which allows me to leave the comfort zone and dedicate my work-time to an open source project.
-nevermind. I will try to do it from now on, although I am not quite sure if I I have always wanted to have a blog to tell something, but until now&amp;hellip; will have enough discipline 😅, motivation 💪 and, above all, (interesting) things to write 😎.</description>
     </item>
     
   </channel>
