@@ -1,6 +1,7 @@
 ---
 title: "My First Hack Week at SUSE"
 date: 2018-07-14T07:56:04+01:00
+lastmod: 2018-07-22T23:06:42+01:00 
 tags: [ "Hack Week", "YaST" ]
 ---
 
@@ -46,14 +47,14 @@ Let me share what I discovered/learn
 * `initial_devicegraph` (or `probed devicegraph`) is not accessible publicly
   through the proposal.
 
-* In YaST there is not scroll. (That was a big surprise to me since I come from
-  web development and... you know what crazy stuff you could do in the
-  browser). Elements, (a.k.a `Terms`) are placed in horizontal or vertical,
-  distributing available space proportionally or according to Min/Max
-  Width/Height and margins. That is a problem because depending on system
-  resolution and number of disks elements could collapse or directly
-  "dissappears" (each disk requires two graph for a full representation)
-  _[[Figure 2.1](#figure-2-1) and [Figure 2.2](#figure-2-2)]_.
+* In YaST there is not scroll (which was a big surprise to me since I come from
+  web development and... you know what crazy stuff you can do in the browser).
+  Elements, (a.k.a `Terms`) are placed in horizontal or vertical, distributing
+  available space proportionally or according to Min/Max Width/Height and
+  margins. That is a problem because depending on system resolution and number
+  of disks elements could collapse or directly "dissappears" (each disk
+  requires two graph for a full representation) _[[Figure 2.1](#figure-2-1) and
+  [Figure 2.2](#figure-2-2)]_.
 
 * YaST is not designed for an extensive user interactivity. So, it is not
   possible to draw a bar graph which allows the user "click on a partition to
@@ -91,7 +92,7 @@ first Hack Week, namely
   TW](https://software.opensuse.org/distributions/tumbleweed) after a while 
 - see how vim started crashing :sob: :sob: 
 - switch to [`Neovim`](https://neovim.io/) (just install a package and create
-  and alias)
+  an alias)
 - test a few dark themes for vim/neovim
   - perun - https://github.com/aradunovic/perun.vim
   - Quantum - https://github.com/tyrannicaltoucan/vim-quantum
