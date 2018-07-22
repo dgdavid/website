@@ -24,3 +24,12 @@ figure.image img {
   font-size: 12px;
   font-weight: bold;
 }
+
+section.index article {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+section.index article + article {
+  margin-top: 15px;
+}
