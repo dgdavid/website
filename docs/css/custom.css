@@ -25,6 +25,10 @@ figure.image img {
   font-weight: bold;
 }
 
+.content p {
+  text-align: initial;
+}
+
 section.index article {
   border-bottom: 1px solid #ccc;
   padding-bottom: 10px;
