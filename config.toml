@@ -6,6 +6,9 @@ theme = "kiss"
 enableEmoji = true
 disqusShortname = "dgdavid"
 
+[params.info]
+poweredby = true # Adds powered by Hugo and Kiss below Copyright section
+
 [params.assets]
 customCSS = ["css/custom.css"]
 
