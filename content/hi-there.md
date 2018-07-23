@@ -1,7 +1,7 @@
 ---
 title: "Hi there!"
 date: 2018-07-12T12:00:24+01:00
-lastmod: 2018-07-21T17:15:42+01:00 
+lastmod: 2018-07-23T10:46:25+01:00 
 ---
 
 Jesús **David Díaz** González here, a software developer from [La
@@ -13,10 +13,10 @@ Member Team (YTM)](https://github.com/orgs/yast/people) :clap::clap::clap: at
 [SUSE](https://www.suse.com), a great and exciting challenge which allows me
 to leave the comfort zone and dedicate my work-time to an open source project.
 
-nevermind. I will try to do it from now on, although I am not quite sure if I
 I have always wanted to have a blog to tell something, but until now...
-will have enough discipline :sweat_smile:, motivation :muscle: and, above
-all, (interesting) things to write :sunglasses:.
+nevermind. I will try to do it from now on, although I am not quite sure if I
+will have enough discipline :sweat_smile:, motivation  :muscle: and, above
+all, (interesting) things to write :sunglasses:
 
 This first entry can be considered as a mix between the classic `Hello World!`
 and a partial `About me` section.
