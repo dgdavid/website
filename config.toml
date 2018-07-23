@@ -18,7 +18,7 @@ linkedin = "diazglezdavid"
 twitter = "diazglezdavid"
 
 [params.sections_right]
-"/website/hi-there/" = "About me"
+"/website/blog/hi-there/" = "About me"
 
 [blackfriday]
 hrefTargetBlank = true
