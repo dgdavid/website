@@ -1,7 +1,7 @@
 ---
 title: "Hi there!"
 date: 2018-07-12T12:00:24+01:00
-lastmod: 2018-07-23T10:46:25+01:00 
+lastmod: 2018-07-24T11:12:25+01:00 
 ---
 
 Jesús **David Díaz** González here, a software developer from [La
@@ -9,9 +9,9 @@ Aldea de San
 Nicolás](https://www.google.es/maps/place/La+Aldea+de+San+Nicol%C3%A1s,+Las+Palmas/@27.945466,-15.8544958,12z/data=!3m1!4b1!4m5!3m4!1s0xc4062a9c0e6e8f9:0x40340f3be4d1420!8m2!3d27.9822218!4d-15.7793741)<sup>[1][2]</sup>.
 
 After working for the Web platform during 10 years, recently I became a [YaST
-Member Team (YTM)](https://github.com/orgs/yast/people) :clap::clap::clap: at
-[SUSE](https://www.suse.com), a great and exciting challenge which allows me
-to leave the comfort zone and dedicate my work-time to an open source project.
+Team Member (YTM)](https://github.com/orgs/yast/people) :clap::clap::clap: at
+[SUSE](https://www.suse.com), a great and exciting challenge which allows me to
+leave the comfort zone and dedicate my work-time to an open source project.
 
 I have always wanted to have a blog to tell something, but until now...
 nevermind. I will try to do it from now on, although I am not quite sure if I

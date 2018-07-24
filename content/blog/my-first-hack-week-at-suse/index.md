@@ -1,7 +1,7 @@
 ---
 title: "My First Hack Week at SUSE"
 date: 2018-07-14T07:56:04+01:00
-lastmod: 2018-07-22T23:06:42+01:00 
+lastmod: 2018-07-24T11:12:42+01:00 
 tags: [ "Hack Week", "YaST" ]
 ---
 
@@ -84,20 +84,20 @@ That's all :) [You can see the commits that I finally did in the
 fork](https://github.com/dgdavid/yast-storage-ng/commits/feature/graphical-proposal).
 Not a big deal :stuck_out_tongue_winking_eye:
 
-By the way, just for the records, I also did some not related things in my
+By the way, just for the record, I also did some not related things in my
 first Hack Week, namely
 
 - set-up the `VPN`
 - update my [openSUSE
   TW](https://software.opensuse.org/distributions/tumbleweed) after a while 
-- see how vim started crashing :sob: :sob: 
+- see how `vim` started crashing :sob: :sob: 
 - switch to [`Neovim`](https://neovim.io/) (just install a package and create
   an alias)
 - test a few dark themes for vim/neovim
   - perun - https://github.com/aradunovic/perun.vim
   - Quantum - https://github.com/tyrannicaltoucan/vim-quantum
   - Iosvkem - https://github.com/neutaaaaan/iosvkem
-  - :star2: grubvox - https://github.com/morhetz/gruvbox (the chosen one)
+  - :star2: gruvbox - https://github.com/morhetz/gruvbox (the chosen one)
 - change the office distribution (with the rest of teammates)
 
 ---
