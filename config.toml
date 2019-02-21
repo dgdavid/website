@@ -1,4 +1,4 @@
-baseURL = "https://dgdavid.github.io/website"
+baseURL = "http://www.dgdavid.es"
 languageCode = "en"
 title = "David Díaz's blog"
 publishDir = "docs"
