@@ -9,16 +9,23 @@
   </head>
   <body>
     <div class="profile">
-      <h1>» David Díaz «</h1>
-      <h2>/ˈdeɪ/</h2>
-      <div class="profile-picture">
-        <img src="/media/david_diaz.jpeg" />
-      </div>
+      <h1>David Díaz</h1>
       <p>
-        A software developer from Las Palmas de Gran Canaria working at SUSE
+        A software developer from Las Palmas de Gran Canaria working at <a class="suse" href="https://www.suse.com/">SUSE</a>
       </p>
-      <a href="/blog/">Blog</a>
-      <a href="/blog/hi-there">About me</a>
+          {{- $social := ( .Site.Params.social ) -}}
+          {{- range $platform, $username := $social -}}
+                <a aria-label="{{ $platform }}"
+                   href='{{ print ( index $.Site.Data.theme.social.base $platform ) $username }}'
+                   target='_blank'
+                   rel='noopener'>
+                        <span class="{{ $platform }} icon">
+                              <i class>
+                                {{- partial "svg/icons" $platform -}}
+                              </i>
+                        </span>
+                </a>
+          {{- end -}}
     </div>
   </body>
 </html>
