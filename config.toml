@@ -1,4 +1,4 @@
-baseURL = "http://www.dgdavid.es"
+baseURL = "https://www.dgdavid.es"
 languageCode = "en"
 title = "David Díaz's blog"
 publishDir = "docs"
