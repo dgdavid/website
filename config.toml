@@ -15,7 +15,6 @@ customCSS = ["css/custom.css"]
 [params.social]
 github = "dgdavid"
 linkedin = "diazglezdavid"
-twitter = "diazglezdavid"
 
 [params.sections_right]
 "/blog/hi-there/" = "About me"
